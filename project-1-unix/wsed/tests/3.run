@@ -1,1 +1,0 @@
-./wsed -m substitution this that tests/3.in

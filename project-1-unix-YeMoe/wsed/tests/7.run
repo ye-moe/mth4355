@@ -1,0 +1,1 @@
+./wsed -m translation abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ wxyzabcdefghijklmnopqrstuvWXYZABCDEFGHIJKLMNOPQRSTUV tests/7.in
